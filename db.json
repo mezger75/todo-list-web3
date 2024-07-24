@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "a0ff",
+      "title": "BUIDL",
+      "description": "Never Stop Building",
+      "date": "2020-01-01"
+    },
+    {
+      "id": "e8f2",
+      "title": "HODL",
+      "description": "Hold On For Dear Life",
+      "date": "2009-01-09"
+    },
+    {
+      "id": "6be2",
+      "title": "Pizza Day",
+      "description": "Don't forget to eat Pizza",
+      "date": "2025-05-22"
+    }
+  ]
+}
